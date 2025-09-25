@@ -37,10 +37,4 @@ bin/
 # Jangan abaikan README kalau ada
 !README.md
 
-# Jangan abaikan folder laporan dan isinya
-!/praktikum-pbo-2024573010094/laporan/
-!/praktikum-pbo-2024573010094/laporan/**
 
-# Jangan abaikan folder src dan isinya
-!/src/
-!/src/**
